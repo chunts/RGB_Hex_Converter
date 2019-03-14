@@ -1,0 +1,30 @@
+.container {
+    min-height: 500px;
+    max-width: 700px;
+}
+
+#left-side {
+    justify-content: center;
+}
+
+#color-input {
+    align-items: center;
+}
+
+#color-input table {
+    margin-left: 5px;
+}
+
+#color-input td {
+    height: 30px;
+    width: 30px;
+}
+
+#hex-code table{
+    margin-top: 16px;
+}
+
+#hex-code td{
+    height: 80px;
+    width: 80px;
+}
